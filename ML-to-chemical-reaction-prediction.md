@@ -2,7 +2,7 @@
 
 1. ### A Structure-Based Platform for Predicting Chemical Reactivity
 
-    i. __Summary__:
+    __ i. Summary__:
   
     ii. Contributions
   
