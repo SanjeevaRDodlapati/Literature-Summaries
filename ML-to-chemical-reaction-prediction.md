@@ -1,6 +1,7 @@
 # Summmaries of ML papers on chemical reaction predictions
 
 1. ### A Structure-Based Platform for Predicting Chemical Reactivity
+    (https://www.cell.com/chem/pdfExtended/S2451-9294(20)30085-1)
 
     __i. Summary__:
   
