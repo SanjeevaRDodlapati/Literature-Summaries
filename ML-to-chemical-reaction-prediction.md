@@ -2,7 +2,7 @@
 
 1. ### A Structure-Based Platform for Predicting Chemical Reactivity
 
-    i. Summary:
+    i. __Summary__:
   
     ii. Contributions
   
@@ -13,12 +13,12 @@
     v. Comments:
     
 1. ### A graph-convolutional neural network model for the prediction of chemical reactivity
-  i. Summary:
+    i. Summary:
   
-  ii. Contributions
+    ii. Contributions
   
-  iii. Method
+    iii. Method
   
-  iv. Results
+    iv. Results
   
-  v. Comments:
+     v. Comments:
