@@ -32,7 +32,9 @@
       * Weisfeiler-Lehman Network, a graph convolutional neural net is used
       * ![img.png](../img/img2.0.png)
   
+
    __iv. Results__:
+   * ![img.png](../img/img2.1.png)
   
    __v. Comments__:
 
