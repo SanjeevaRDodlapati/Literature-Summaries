@@ -11,8 +11,7 @@
   iv. Results
   
   v. Comments:
-  
-  
+    
 1. ### A graph-convolutional neural network model for the prediction of chemical reactivity
   i. Summary:
   
