@@ -12,7 +12,7 @@
   
     __v. Comments__:
     
-1. ### A graph-convolutional neural network model for the prediction of chemical reactivity
+1. ### [A graph-convolutional neural network model for the prediction of chemical reactivity](https://pubs.rsc.org/en/content/articlepdf/2019/sc/c8sc04228d)
     
      __i. Summary__:
   
