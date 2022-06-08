@@ -13,12 +13,13 @@
     __v. Comments__:
     
 1. ### A graph-convolutional neural network model for the prediction of chemical reactivity
-    i. Summary:
+    
+     __i. Summary__:
   
-    ii. Contributions
+    __ii. Contributions__:
   
-    iii. Method
+    __iii. Method__:
   
-    iv. Results
+    __iv. Results__:
   
-     v. Comments:
+    __v. Comments__:
